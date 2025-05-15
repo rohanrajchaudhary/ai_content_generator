@@ -6,7 +6,7 @@
 
 🛠️ Setup & Installation
 
-1️⃣ Clone the Repo bash git clone https://github.com/rohanrajchaudhary/ai-content-generator.git cd my-app
+1️⃣ Clone the Repo bash git clone https://github.com/rohanrajchaudhary/ai_content_generator.git cd my-app
 
 2️⃣ Install Dependencies bash npm install # or yarn install
 
